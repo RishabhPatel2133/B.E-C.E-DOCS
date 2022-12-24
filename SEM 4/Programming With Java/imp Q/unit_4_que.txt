@@ -1,0 +1,7 @@
+unit - 4
+
+Explain Life Cycle of thread 
+Explain the use of suspended and resume keywords with thread.
+What is inter threaded communication in java? How is it implemented?
+Explain the use of wait() and notify() methods with thread.
+What is synchronization in threading? explain with example.

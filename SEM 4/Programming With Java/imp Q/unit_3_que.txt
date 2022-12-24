@@ -1,0 +1,10 @@
+unit - 3
+
+what is inner class? with exmaple.
+What is Static , local inner , anonymous inner class in detail. (5th practical last practical)
+
+how the access protection handled in packages of java? explain with table.
+
+Expalin try catch mechanism to handle exceptions in java.
+Explain throw, throws and finally keyword with syntax and example in detail.
+How to create custom exceptions in java? (with example)

@@ -1,0 +1,12 @@
+unit - 2
+
+What is Inheritance?
+What is use of protected and extends keyword in java?
+What are the uses of super keyword? explain with example.
+what is method overriding? 
+What is Dynamic Method Dispatch? Explain with Example.
+Differentiate method overloading and overriding.
+What is abstract class? What are its requirements?
+
+what is an interface? what are its requirements to declare in java?
+Interfaces can be extended. How?

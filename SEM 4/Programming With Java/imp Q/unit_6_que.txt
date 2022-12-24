@@ -1,0 +1,12 @@
+unit - 6
+
+What is Java I/O?
+What are the streams?
+Exaplin Input and output streams in java.
+Explain byte stream classes in detail.
+Explain DataInputStream and DataOutput Stream? exmaple.
+What is FileInputStream and FileOutputStream? Write a program module to read and display any file using Java.
+What is File Class? List out functions and their uses associated with File class for any file.
+
+Programs for streams to take byte / char / string input
+Programs for Files - read file , write to file. Save a new file,etc.

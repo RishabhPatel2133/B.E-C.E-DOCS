@@ -1,0 +1,30 @@
+unit - 1
+
+Explain Java Features / Java Buzz words. (5 Marks)
+Explain JVM & JRE. 
+Explain Encapsulation, Polymorphism and Inheritance in Detail (O.O.Concepts)
+What is bytecode?
+What Classpath and path for JAVA?
+
+What is Dynamic Initialization ? 
+What is an Array with example?
+
+Explain bit wise operators with example. (all or any one/two)
+Explain short circuit logical operators with example.
+Explain shift operators with example
+Explain ternary operator with example.
+Explain break and continue statements with example.
+
+What is Class? What is object and its declaration?
+What is constructor in JAVA? with exmaple
+What is constructor overloading with example? (with object creation)
+Explain this Keyword in detail.
+What is garbage collection in java?
+what is finalize() method in detail.
+
+what is method overloading in java with example.
+How to return objects from method of class? (program related)
+List out all access specifiers. (explain in detail)
+Explain uses of final keyword in java with example.
+What is static keyword? where is it used?
+what are the restrictions of static method? How to use in Program?

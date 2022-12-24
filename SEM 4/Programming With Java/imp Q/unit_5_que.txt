@@ -1,0 +1,8 @@
+unit - 5
+
+List out collection frameworks in java.
+ArrayList, LinkedList, Iterator ane ListIterator, HashSet, LinkedHash, TreeSet , PriorityQueue, ArrayDeque, 
+Describe the Java Collections Framework. List the interfaces, abstract classes and concrete classes of collection hierarchy
+Explain use of Linked List collection class with example. (all operations of linked list).
+Explain ArrayList in details with add() and remove() functions? 
+List out Map classes. Explain HashMap and TreeMap in detail.
